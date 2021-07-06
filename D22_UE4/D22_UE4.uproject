@@ -1,12 +1,7 @@
 {
 	"FileVersion": 3,
-<<<<<<< Updated upstream
-	"EngineAssociation": "4.23",
-	"Category": "",
-=======
 	"EngineAssociation": "4.25",
 	"Category": "ArchiVIS",
->>>>>>> Stashed changes
 	"Description": "",
 	"Plugins": [
 		{
