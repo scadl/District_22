@@ -1,4 +1,0 @@
-net.scadsdnd.D22_UE4
-4
-2.0
-name='com.epicgames.ue4.GameActivity.AppType' value=''
